@@ -21,6 +21,7 @@ namespace AS2223_4G_INF_Prof_Statistiche
         /// <param name="valore"></param>
         public void AddValue(int valore)
         { 
+
         }
 
         /// <summary>
